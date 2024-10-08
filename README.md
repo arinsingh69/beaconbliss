@@ -1,17 +1,24 @@
-# beaconbliss
+Bluetooth Beacon Detector
 
-A new Flutter project.
+Overview
 
-## Getting Started
+Bluetooth Beacon Detector is a Flutter-based mobile application that scans for nearby Bluetooth devices (beacons) and lists them on the screen. This application helps users detect Bluetooth-enabled devices within range.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+Scan for Bluetooth devices in the vicinity.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+List detected devices with their names and IDs.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# beaconbliss" 
+Refresh the device list by starting a new scan.
+
+Alerts users to enable location services for scanning.
+
+Prerequisites
+
+
+Flutter SDK
+
+Android Studio or Visual Studio Code
+
+An Android or iOS device with Bluetooth capability
